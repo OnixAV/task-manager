@@ -61,7 +61,10 @@ const Backlog = () => {
                     <div className="relative mt-6 flex-1 px-4 sm:px-6">
                       {/* Replace with your content */}
                       <div className="absolute inset-0 px-4 sm:px-6">
-                        <div className="h-full border-2 border-dashed border-gray-200" aria-hidden="true" />
+                        <div className="card container bg-gray-100 rounded-lg">
+
+                        </div>
+                        {/* <div className="h-full border-2 border-dashed border-gray-200" aria-hidden="true" /> */}
                       </div>
                       {/* /End replace */}
                     </div>
